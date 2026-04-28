@@ -31,3 +31,5 @@
 ### 关于我
 - [个人主页](https://beihai.wiki)
 - [个人博客](https://blog.beihai.wiki/)
+
+<img src="https://cdn.jsdelivr.net/gh/BeihaiWiki/BeihaiWiki/assets/images/java.png" />
